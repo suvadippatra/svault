@@ -1,0 +1,6 @@
+{
+  "name": "ScholarVault",
+  "description": "Offline-first application module optimized for binary footprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_ANDROID", "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
